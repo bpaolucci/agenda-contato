@@ -11,7 +11,6 @@ Aplicação em Python, feita em dupla, para cadastrar, listar, buscar e remover 
 
 ## Como executar
 
-```bash
 python agenda.py
 
 ## Autores

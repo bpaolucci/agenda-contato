@@ -11,13 +11,13 @@ Aplicação em Python, feita em dupla, para cadastrar, listar, buscar e remover 
 
 ## Como executar
 
-```bash
+
 python agenda.py
 
 ## Autores
  Bernardo Paolucci - bpaolucci
  Daniel Ferreira - danielferreira88
 
- 
+
  ##Sobre o projeto
  Projeto desenvolvido para a disciplina Projeto em Ciência de Dados I, como atividade prática de introdução ao GitHub (Issues, Projects, Pull Requests, Actions e Wiki).
